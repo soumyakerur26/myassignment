@@ -1,0 +1,163 @@
+.navbar-fixed-top
+{
+  background-color: orange;
+  height: 130px;
+
+
+}
+.navbar-nav
+{
+  margin-top: 50px;
+  padding-left: 120px;
+
+
+
+
+}
+.form-control
+ {
+  width: 200px;
+  margin-top: 50px;
+ }
+ .btn-default
+ {
+   margin-top: 50px;
+ }
+ .well
+ {
+
+   background-color: gray;
+   margin-top: 200px;
+
+
+ }
+ h1 small
+ {
+  font-size: 25px;
+  font-style: normal;
+
+
+ }
+ .hero-unit {
+    background-image:url('http://jsrp.in/images/banner2.png');
+    background-size:cover;
+    background-color: #EEEEEE;
+    height:300px;
+
+  }
+
+  ul li
+  {
+    display: inline-block;
+
+
+
+  }
+    .lead li
+  {
+   background-color: black;
+   font-weight: bold;
+   font-style: italic;
+   padding-right: 50px;
+   font-size: medium;
+
+
+
+ }
+ .lead a{
+padding-left: 10px;
+
+
+ }
+ .lead strong
+ {
+   font-style: normal;
+   font-size: larger;
+  background-color: white;
+
+ }
+ .panel
+  {
+    margin-top: 60px;
+    background-color: goldenrod;
+  }
+  h3.panel-title
+ {
+   text-align: center;
+ }
+ .col-sm-8
+{
+  margin-top: 18px;
+  font-size: larger;
+  background-color: whitesmoke;
+}
+
+
+ body{
+    background-color: #e3e3e3;
+    margin: auto;
+  }
+  .wrap_grid{
+    float: right;
+
+  }
+  navbar-brand
+  {
+    background-color: red;
+  }
+footer{
+ background-color: black;
+  margin-top: 50px;
+}
+
+
+/* --------------------------------------
+  Typography
+  -------------------------------------- */
+
+
+
+--------------------------------------
+ .grid_4{
+   background-color: blue;
+   float: right;
+ }
+  .navbar-brand
+  {
+    padding: 13px 15SSpx
+  }
+
+  --------------------------------------
+
+
+
+/* --------------------------------------
+  Carousel
+  -------------------------------------- */
+
+
+
+/* --------------------------------------
+  Global Styles
+  -------------------------------------- */
+
+
+
+/* --------------------------------------
+  Media Queries
+  -------------------------------------- */
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+
+}

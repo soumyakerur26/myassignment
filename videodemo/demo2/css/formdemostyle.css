@@ -1,0 +1,15 @@
+form li{
+  list-style: none;
+  margin-bottom: 100px;
+}
+ul{
+  display: block;
+}
+label{
+  background-color: yellow;
+  display: block;
+}
+textarea{
+  height: 100px;
+  width: 600px;
+}

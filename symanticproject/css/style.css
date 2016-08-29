@@ -1,0 +1,49 @@
+header
+{
+  height: 100px;
+  }
+section{
+  background-color: brown;
+  margin-left: auto;
+}
+ nav
+  {
+    background-color :blue;
+    height: 50px;
+
+
+  }
+  ul
+  {
+    margin-top: 0;
+  }
+nav li{
+  display:inline;
+  background-color: blue;
+  }
+   #right{
+    float: left;
+  }
+  aside{
+    float: left;
+    background-color: yellow;
+    width:25%;
+    height: 400px;
+  }
+
+  section{
+    float: left;
+    width:50%;
+    height:400px;
+  }
+
+  header{
+    background-color: pink;
+  }
+  footer{
+    background-color: red;
+    width: 1800px;
+    float :right;
+    float: left;
+
+  }

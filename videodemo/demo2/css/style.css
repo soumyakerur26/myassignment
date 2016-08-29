@@ -1,0 +1,18 @@
+.wrap{
+  width: 600px;
+    background-color: brown;
+  margin: auto;
+}
+.content{
+
+float: left;
+  background-color: red;
+}
+
+aside{
+float: left;
+  background-color: green;
+
+
+
+}
